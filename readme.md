@@ -1,4 +1,4 @@
-Huffman Coding<br>
+<strong>Huffman Coding<br>
 The Huffman Coding Algorithm was proposed by David A. Huffman in 1950.<br>
 
 1. Huffman coding is a lossless data compression algorithm.<br>
@@ -6,7 +6,7 @@ The Huffman Coding Algorithm was proposed by David A. Huffman in 1950.<br>
 3. It is widely used in image (JPEG or JPG) compression.<br>
 
 
-Huffman Tree
+<strong>Huffman Tree<br>
 Step 1: For each character of the node, create a leaf node. The leaf node of a character contains the frequency of that character.<br>
 
 Step 2: Set all the nodes in sorted order according to their frequency.<br>
