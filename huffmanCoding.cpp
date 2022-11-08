@@ -1,16 +1,13 @@
-// C++ program for Huffman Coding
 #include <iostream>
 #include <cstdlib>
 using namespace std;
 
-// This constant can be avoided by explicitly
-// calculating height of Huffman Tree
 #define MAX_TREE_HT 100
 
-// A Huffman tree node
+
 struct MinHeapNode {
 
-	// One of the input characters
+	
 	char data;
 
 	// Frequency of the character
